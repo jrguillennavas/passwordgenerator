@@ -10,7 +10,7 @@ and if you like me you can leave a little ⭐️
 
 ---
 
-Demo [Password Generator]()
+Demo [Password Generator](https://passwordgenerator-one-mu.vercel.app/)
 
 \*\*\*\*
 This application allows you to generate password up to 100 characters. This can be generated to your liking:
