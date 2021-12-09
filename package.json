@@ -1,0 +1,13 @@
+{
+  "name": "passwordgenerator",
+  "version": "1.0.0",
+  "description": "This is a small app to generate password",
+  "main": "script.js",
+  "keywords": [
+    "js",
+    "passwd",
+    "secure"
+  ],
+  "author": "José Guillen",
+  "license": "MIT"
+}
